@@ -24,6 +24,7 @@ log4j.category.com.rupp=DEBUG, RFA, File
 
 * Output to File
 
+```
 log4j.rootCategory=INFO, file, RFA
 
  #Application logging file
